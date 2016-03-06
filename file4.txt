@@ -1,0 +1,5 @@
+file4
+line1
+line2
+linea
+lineb
